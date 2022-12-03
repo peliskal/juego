@@ -1,0 +1,23 @@
+*{
+	margin: 0; padding: 0;
+	box-sizing: border-box;
+}
+
+
+body{
+	background: #424242;
+}
+
+#gamerArea{
+	position: relative;
+	width: 100%;
+	height: 100vh;
+}
+#player{
+	
+	position: relative;
+	width: 100px; height: auto;
+
+}
+
+
